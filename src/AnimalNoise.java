@@ -8,7 +8,9 @@ public class AnimalNoise {
 
 	public static void main(String[] args) {
 		Cat fluffy = new Cat();
-		System.out.println(fluffy.speak());
+		System.out.println(fluffy.speak());	
+		Dog max = new Dog("Max", 5, "Golden Lab");
+		System.out.println(max.speak());
 	
    
    
