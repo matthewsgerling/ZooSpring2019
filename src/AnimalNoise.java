@@ -11,7 +11,8 @@ public class AnimalNoise {
 		System.out.println(fluffy.speak());	
 		Dog max = new Dog("Max", 5, "Golden Lab");
 		System.out.println(max.speak());
-	
+		Bird charlie = new Bird();
+		System.out.println(charlie.speak());
    
    
    	}
