@@ -13,6 +13,8 @@ public class AnimalNoise {
 		System.out.println(max.speak());
 		Bird charlie = new Bird();
 		System.out.println(charlie.speak());
+		Zebra joe = new Zebra();
+		System.out.println(joe.speak());
    
    
    	}
