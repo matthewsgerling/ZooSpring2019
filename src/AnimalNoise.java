@@ -15,8 +15,8 @@ public class AnimalNoise {
 		System.out.println(charlie.speak());
 		Zebra joe = new Zebra();
 		System.out.println(joe.speak());
-   
-   
+  	Frog Kermit = new Frog("Kermit",2,"Green");
+		System.out.println(Kermit.speak());
    	}
 
 }
