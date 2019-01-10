@@ -19,6 +19,10 @@ public class AnimalNoise {
 		System.out.println(Kermit.speak());
 		Snake ramses = new Snake("Ramses", "Python", false);
 		System.out.println(ramses.speak());
+		Lion Mufasa = new Lion("Mufasa", 25, 240);
+		System.out.println(Mufasa.speak());
+    
+
    	}
 
 }
