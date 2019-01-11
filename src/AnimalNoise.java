@@ -21,8 +21,8 @@ public class AnimalNoise {
 		System.out.println(ramses.speak());
 		Lion Mufasa = new Lion("Mufasa", 25, 240);
 		System.out.println(Mufasa.speak());
-    
-
+		Cow Babe = new Cow("Babe", "Angus", "Female");
+		System.out.println(Babe.speak());
    	}
 
 }
