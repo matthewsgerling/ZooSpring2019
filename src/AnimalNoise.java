@@ -23,6 +23,8 @@ public class AnimalNoise {
 		System.out.println(Mufasa.speak());
 		Cow Babe = new Cow("Babe", "Angus", "Female");
 		System.out.println(Babe.speak());
+		Turkey Tom = new Turkey("Tom", 3,"Male");
+		System.out.println(Tom.speak());
    	}
 
 }
