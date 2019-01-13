@@ -23,6 +23,9 @@ public class AnimalNoise {
 		System.out.println(Mufasa.speak());
 		Cow Babe = new Cow("Babe", "Angus", "Female");
 		System.out.println(Babe.speak());
+		// Create Goat instance and display results of speak()
+		Goat billy = new Goat("Brown", "M", "Billy");
+		System.out.println(billy.speak());
    	}
 
 }
