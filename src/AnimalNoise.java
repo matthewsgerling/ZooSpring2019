@@ -27,6 +27,9 @@ public class AnimalNoise {
 		System.out.println(Tom.speak());
 		Sheep shirley = new Sheep ("Shirley", "Female", 3); 
 		System.out.println(shirley.speak());
+
+		Chicken clucky = new Chicken();
+		System.out.println(clucky.speak());
    	}
 
 }
