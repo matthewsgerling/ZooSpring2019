@@ -22,6 +22,8 @@ public class AnimalNoise {
 		System.out.println(Mufasa.speak());
 		Cow Babe = new Cow("Babe", "Angus", "Female");
 		System.out.println(Babe.speak());
+		Goat billy = new Goat("Brown", "M", "Billy");
+		System.out.println(billy.speak());
 		Turkey Tom = new Turkey("Tom", 3, "Male");
 		System.out.println(Tom.speak());
 		Sheep shirley = new Sheep("Shirley", "Female", 3);
