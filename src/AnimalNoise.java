@@ -20,6 +20,8 @@ public class AnimalNoise {
 		System.out.println(ramses.speak());
 		Lion Mufasa = new Lion("Mufasa", 25, 240);
 		System.out.println(Mufasa.speak());
+		Llama tina = new Llama("Tina", "Fat Lard", "Eating dinner");
+		System.out.println(tina.speak());
 		Cow Babe = new Cow("Babe", "Angus", "Female");
 		System.out.println(Babe.speak());
 		Goat billy = new Goat("Brown", "M", "Billy");
@@ -36,6 +38,9 @@ public class AnimalNoise {
 		System.out.println(slinky.speak());
 		Turtle dude = new Turtle("dude", "sea", 130);
 		System.out.println(dude.speak());
+		Fox ylvis = new Fox("Ylvis", "Foxy Red", "Male");
+		System.out.println(ylvis.speak());
+
 	}
 
 }
