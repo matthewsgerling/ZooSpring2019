@@ -42,6 +42,8 @@ public class AnimalNoise {
 		System.out.println(ylvis.speak());
 		Tiger growl = new Tiger();
 		System.out.println(growl.speak());
+    Horse lucky = new Horse("Lucky", "brown", "Appaloosa");
+		System.out.println(lucky.speak());
 	}
 
 }
