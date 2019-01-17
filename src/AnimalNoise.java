@@ -36,8 +36,11 @@ public class AnimalNoise {
 		System.out.println(dumbo.speak());
 		Weasel slinky = new Weasel("Slinky", 3, 18);
 		System.out.println(slinky.speak());
+		Turtle dude = new Turtle("dude", "sea", 130);
+		System.out.println(dude.speak());
 		Fox ylvis = new Fox("Ylvis", "Foxy Red", "Male");
 		System.out.println(ylvis.speak());
+
 	}
 
 }
