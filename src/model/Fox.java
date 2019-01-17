@@ -43,10 +43,10 @@ public class Fox {
 	
 	
 	// What does the fox say!?
-		public String speak() {
-			return  "Ring-ding-ding-ding-dingeringeding! "
-				+ 	"Gering-ding-ding-ding-dingeringeding! "
-				+ 	"Gering-ding-ding-ding-dingeringeding!";
-		}
+	public String speak() {
+		return  "Ring-ding-ding-ding-dingeringeding! "
+			+ 	"Gering-ding-ding-ding-dingeringeding! "
+			+ 	"Gering-ding-ding-ding-dingeringeding!";
+	}
 
 }
