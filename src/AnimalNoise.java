@@ -40,7 +40,8 @@ public class AnimalNoise {
 		System.out.println(dude.speak());
 		Fox ylvis = new Fox("Ylvis", "Foxy Red", "Male");
 		System.out.println(ylvis.speak());
-
+		Tiger growl = new Tiger();
+		System.out.println(growl.speak());
 	}
 
 }
